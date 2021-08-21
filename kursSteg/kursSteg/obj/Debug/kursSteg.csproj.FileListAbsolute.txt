@@ -1,0 +1,15 @@
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\bin\Debug\kursSteg.exe.config
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\bin\Debug\kursSteg.exe
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\bin\Debug\kursSteg.pdb
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\MainWindow.g.cs
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\App.g.cs
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\kursSteg_MarkupCompile.cache
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\kursSteg_MarkupCompile.lref
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\MainWindow.baml
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\kursSteg.g.resources
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\kursSteg.Properties.Resources.resources
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\kursSteg.csproj.GenerateResource.cache
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\kursSteg.csproj.CoreCompileInputs.cache
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\kursSteg.exe
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\kursSteg.pdb
+C:\Users\Luman\Desktop\Универ\4 курс\2 семестр\Курсовая\kursSteg\kursSteg\obj\Debug\kursSteg.csprojAssemblyReference.cache
